@@ -1,0 +1,1 @@
+Mimir is a data-driven exam question analysis system designed to analyze previous-year question papers (KTU-focused) and predict high-probability topics, question patterns, and paper structure for upcoming exams.
